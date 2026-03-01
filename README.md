@@ -4,7 +4,7 @@ A backend service for identifying and tracking customer identity across multiple
 
 ## 🚀 Live Demo
 
-**API Endpoint:** `[https://identity-reconciliation-uhgs.onrender.com]`
+**API Endpoint:** `https://identity-reconciliation-uhgs.onrender.com`
 
 ## 📋 Features
 
@@ -33,7 +33,7 @@ A backend service for identifying and tracking customer identity across multiple
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/AKHILESH2208/Identity_Reconciliation.git
    cd BiteSpeed
    ```
 
